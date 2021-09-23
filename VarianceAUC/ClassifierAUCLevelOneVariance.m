@@ -17,7 +17,7 @@ function [auc,var_auc]=ClassifierAUCLevelOneVariance(h1,h0)
 %
 %Reference:
 %W. Chen, B. D. Gallas, W. A. Yousef, "Classifier variability: accounting
-%for training and testing," submitted to IEEE Trans PAMI
+%for training and testing," Pattern Recognition, 45 (7), 2661-2671
 %
 %Weijie Chen 03/30/2011
 %
