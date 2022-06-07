@@ -6,7 +6,7 @@ function [auc,var_auc]=ClassifierAUCLevelOneVariance(h1,h0)
 %INPUT:
 %
 %h1: [n1x1]. train the classifier with the training set and test it on the
-%     test set, h1c is the testing scores on the actually positive cases
+%     test set, h1 is the testing scores on the actually positive cases
 %h0: [n0x1], test scores on the actually negative cases
 %    
 %OUTPUT:
